@@ -19,7 +19,7 @@ Clone or download this repository and run with a local server of open `index.htm
 
 
 ## Contact
-If you want to contact me you can reach me at aishat@codevillage.ng
+If you want to contact me you can reach me at aishat@codevillage.ng or aishatabdulfatah81@gmail.com
 
 ## Addtional Info
 - This is one of the series of project for the @freecodecamp responsive web design 
